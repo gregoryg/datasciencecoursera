@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-Projects in the Coursera Data Science specialty track
