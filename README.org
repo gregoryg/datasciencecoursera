@@ -1,15 +1,1 @@
-#+TITLE: README
-#+DATE: <2014-11-03 Mon>
-#+AUTHOR: Gregory Grubbs
-#+EMAIL: gregory@dynapse.com
-#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t c:nil
-#+OPTIONS: creator:comment d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
-#+OPTIONS: p:nil pri:nil stat:t tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
-#+CREATOR: Emacs 24.4.2 (Org mode 8.2.10)
-#+DESCRIPTION:
-#+EXCLUDE_TAGS: noexport
-#+KEYWORDS:
-#+LANGUAGE: en
-#+SELECT_TAGS: export
-
 * Projects in the Coursera Data Science specialty track
